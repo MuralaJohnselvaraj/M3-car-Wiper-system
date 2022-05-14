@@ -10,3 +10,5 @@
 
 
 [![Build_CI - Linux](https://github.com/MuralaJohnselvaraj/M3-car-Wiper-system/actions/workflows/linux.yml/badge.svg)](https://github.com/MuralaJohnselvaraj/M3-car-Wiper-system/actions/workflows/linux.yml)
+
+[![Analysis](https://github.com/MuralaJohnselvaraj/M3-car-Wiper-system/actions/workflows/analysis.yml/badge.svg)](https://github.com/MuralaJohnselvaraj/M3-car-Wiper-system/actions/workflows/analysis.yml)
