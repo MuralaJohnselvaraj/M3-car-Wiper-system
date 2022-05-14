@@ -7,3 +7,6 @@
 
 
 [![Code Quality - Cppcheck](https://github.com/MuralaJohnselvaraj/M3-car-Wiper-system/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/MuralaJohnselvaraj/M3-car-Wiper-system/actions/workflows/c-cpp.yml)
+
+
+[![Build_CI - Linux](https://github.com/MuralaJohnselvaraj/M3-car-Wiper-system/actions/workflows/linux.yml/badge.svg)](https://github.com/MuralaJohnselvaraj/M3-car-Wiper-system/actions/workflows/linux.yml)
